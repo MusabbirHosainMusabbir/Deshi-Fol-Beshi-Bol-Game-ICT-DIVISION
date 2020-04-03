@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7671f0ad1ee229c408f33664f1ee1ae6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cute Maple
+  fontNames:
+  - Cute Maple
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7469171881b710a43b2dd5c801a43c1f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

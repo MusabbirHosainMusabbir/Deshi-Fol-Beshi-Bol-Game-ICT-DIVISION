@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bird
+  - Brick
+  - Pig
+  - guilti
+  - mango
+  - Pause
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 3656647777
+    locked: 0
+  - name: Background
+    uniqueID: 1050805185
+    locked: 0
+  - name: Cloud
+    uniqueID: 150116681
+    locked: 0
+  - name: villege
+    uniqueID: 652830045
+    locked: 0
+  - name: land
+    uniqueID: 648351615
+    locked: 0
+  - name: house
+    uniqueID: 327267461
+    locked: 0
+  - name: Stone
+    uniqueID: 2056500735
+    locked: 0
+  - name: tree1
+    uniqueID: 3589422513
+    locked: 0
+  - name: Trees
+    uniqueID: 1182191077
+    locked: 0
+  - name: Pond
+    uniqueID: 676170829
+    locked: 0
+  - name: ston
+    uniqueID: 332737411
+    locked: 0
+  - name: green land
+    uniqueID: 2449101231
+    locked: 0
+  - name: grand land
+    uniqueID: 2294233621
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tree2
+    uniqueID: 1596322105
+    locked: 0
+  - name: tree
+    uniqueID: 2162604605
+    locked: 0
+  - name: pond1
+    uniqueID: 1259926927
+    locked: 0
+  - name: Foreground
+    uniqueID: 151119413
+    locked: 0
+  - name: background2
+    uniqueID: 3970297719
+    locked: 0
+  - name: geass1
+    uniqueID: 3174885251
+    locked: 0
+  - name: grass
+    uniqueID: 3699744191
+    locked: 0
+  - name: dibi
+    uniqueID: 2418202305
+    locked: 0
+  - name: 'spring '
+    uniqueID: 2225461127
+    locked: 0
