@@ -1,2 +1,37 @@
-# Deshi-Fol-Beshi-Bol-Game-ICT-DIVISION
-In this game, the player has to take the fruit from the tree using his tool &amp;quot;Gulati&amp;quot;. When the player starts playing the game, it will appear on the screen that the player is standing with a Gulati. And there will be a fruit tree in front of him, from which he can bear fruit. To get the fruit, the player must swing and hit the fruit. The player will be given certain shots to get the fruit from the tree.
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/MusabbirHosainMusabbir/Deshi-Fol-Beshi-Bol-Game-ICT-DIVISION/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MusabbirHosainMusabbir/Deshi-Fol-Beshi-Bol-Game-ICT-DIVISION/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
